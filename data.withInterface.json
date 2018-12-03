@@ -1,0 +1,41 @@
+{
+  "1": {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": {
+      "firstName": "J.K",
+      "lastName": "Rowling"
+    },
+    "publicationDate": "26 June 1997",
+    "genre": ["FANTASY"],
+    "resourceType": "PHYSICAL_BOOK",
+    "onLoan": false,
+    "numberOfPages": 332,
+    "rating": 4.8
+  },
+  "2": {
+    "title": "IT",
+    "author": {
+      "firstName": "Stephen",
+      "lastName": "King"
+    },
+    "publicationDate": "September 15, 1986",
+    "genre": ["HORROR", "THRILLER"],
+    "resourceType": "PHYSICAL_BOOK",
+    "onLoan": true,
+    "numberOfPages": 1138,
+    "rating": 3.5
+  },
+  "3": {
+    "title": "The Hobbit",
+    "author": {
+      "firstName": "J.R.R",
+      "lastName": "Tolkien"
+    },
+    "publicationDate": "21 September 1937",
+    "genre": ["FANTASY"],
+    "resourceType": "AUDIO_BOOK",
+    "onLoan": false,
+    "durationInMinutes": 662,
+    "rating": 5.0
+  }
+}

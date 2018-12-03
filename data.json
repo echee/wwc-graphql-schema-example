@@ -1,0 +1,22 @@
+{
+  "1": {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": {
+      "firstName": "J.K",
+      "lastName": "Rowling"
+    },
+    "publicationDate": "26 June 1997",
+    "genre": ["FANTASY"],
+    "numberOfPages": 332
+  },
+  "2": {
+    "title": "IT",
+    "author": {
+      "firstName": "Stephen",
+      "lastName": "King"
+    },
+    "publicationDate": "September 15, 1986",
+    "genre": ["HORROR", "THRILLER"],
+    "numberOfPages": 1138
+  }
+}
