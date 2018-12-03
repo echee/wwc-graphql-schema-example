@@ -9,3 +9,5 @@ It goes over:
 - Validation Types/ nullable and non nullable
 - Enum Types
 - Interface Types
+
+`index.js` will be the only file that gets loaded, copy the code from the other `index.step<number>.js` files and paste it into `index.js` to see it run
